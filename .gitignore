@@ -1,3 +1,4 @@
 .env
-logs/*
+airflow-tutorial/logs/*
+airflow-docker/logs/*
 __pycache__
